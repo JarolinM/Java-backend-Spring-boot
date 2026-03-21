@@ -54,6 +54,20 @@ Al finalizar esta clase, serás capaz de:
 
 ---
 
+## 📖 Clase 3: Servicios y Lógica de Negocio
+
+### Contenido
+- Inversión de Dependencias (@Autowired, Constructor Injection)
+- Patrón Service Layer (separación por capas)
+- @Component, @Service, @Configuration
+- Implementación de ProductoService
+- Refactorización asistida por IA
+
+### Archivo
+- [Clase 3: Servicios y Lógica de Negocio](./clase-03-servicios-logica-negocio.md)
+
+---
+
 ## 📁 Estructura de la Documentación
 
 ```
