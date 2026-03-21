@@ -40,6 +40,20 @@ Al finalizar esta clase, serás capaz de:
 
 ---
 
+## 📖 Clase 2: CRUD Completo y Gestión de Errores
+
+### Contenido
+- Operaciones PUT y DELETE
+- Capa de Servicio (@Service)
+- Manejo de errores (@ControllerAdvice)
+- Validación de datos (@Valid)
+- Mejores prácticas
+
+### Archivo
+- [Clase 2: CRUD Completo](./clase-02-crud-completo.md)
+
+---
+
 ## 📁 Estructura de la Documentación
 
 ```
