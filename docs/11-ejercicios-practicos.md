@@ -542,3 +542,5 @@ Si completaste todos los ejercicios, has demostrado un entendimiento sólido de 
 ---
 
 *Vuelve al README.md para ver el orden de estudio recomendado.*
+
+*Autor: Jarolin Matos Martinez*

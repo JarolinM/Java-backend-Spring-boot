@@ -480,3 +480,5 @@ curl -X POST http://localhost:8080/api/productos \
 ---
 
 *Las respuestas a los ejercicios están en el archivo `11-ejercicios-practicos.md`*
+
+*Autor: Jarolin Matos Martinez*

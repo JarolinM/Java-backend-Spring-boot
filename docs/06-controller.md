@@ -690,3 +690,5 @@ Para cada endpoint de tu controller, escribe:
 ---
 
 *Las respuestas a los ejercicios están en el archivo `11-ejercicios-practicos.md`*
+
+*Autor: Jarolin Matos Martinez*

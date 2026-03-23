@@ -88,7 +88,7 @@ Anteriormente, desarrollar con Java EE o incluso con el Spring Framework clásic
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                    CONCEPTOS CLAVE DE SPRING BOOT              │
+│                    CONCEPTOS CLAVE DE SPRING BOOT               │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
 │  1. Convention over Configuration                               │
@@ -96,16 +96,16 @@ Anteriormente, desarrollar con Java EE o incluso con el Spring Framework clásic
 │     → Spring Boot asume lo que necesitas                        │
 │                                                                 │
 │  2. Auto-configuración                                          │
-│     → Configura automáticamente basado en tus dependencias     │
+│     → Configura automáticamente basado en tus dependencias      │
 │                                                                 │
 │  3. Servidores Embebidos                                        │
-│     → Tomcat, Jetty incluídos (no necesitas servidor externo)  │
+│     → Tomcat, Jetty incluídos (no necesitas servidor externo)   │
 │                                                                 │
 │  4. Starters                                                    │
 │     → Dependencias pre-configuradas (ej: spring-boot-starter-web)│
 │                                                                 │
 │  5. Actuator                                                    │
-│     → Monitoreo y gestión de la aplicación                     │
+│     → Monitoreo y gestión de la aplicación                      │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -123,15 +123,15 @@ Anteriormente, desarrollar con Java EE o incluso con el Spring Framework clásic
 
 ```
 ┌────────────────────┬──────────────────────────────────────────────┐
-│   Tecnología      │   Diferencia con Spring Boot                 │
+│   Tecnología       │   Diferencia con Spring Boot                 │
 ├────────────────────┼──────────────────────────────────────────────┤
-│ Spring Clásico    │ Boot simplifica la configuración manual/XML  │
+│ Spring Clásico     │ Boot simplifica la configuración manual/XML  │
 ├────────────────────┼──────────────────────────────────────────────┤
-│ Java EE/Jakarta   │ Boot es más ligero y rápido de configurar    │
+│ Java EE/Jakarta    │ Boot es más ligero y rápido de configurar    │
 ├────────────────────┼──────────────────────────────────────────────┤
-│ Node.js/Django    │ Spring Boot ofrece tipado fuerte + ecosistema │
+│ Node.js/Django     │ Spring Boot ofrece tipado fuerte + ecosistema│
 ├────────────────────┼──────────────────────────────────────────────┤
-│ Quarkus/Micronaut │ Alternativas optimizadas; Boot es líder     │
+│ Quarkus/Micronaut  │ Alternativas optimizadas; Boot es líder      │
 └────────────────────┴──────────────────────────────────────────────┘
 ```
 
@@ -686,4 +686,6 @@ Nivel 3 - Producción
 ---
 
 *Documento creado para el curso de Spring Boot - Clase 1*
-*Última actualización: 2026*
+*Última actualización: Marzo 2026*
+
+*Autor: Jarolin Matos Martinez*

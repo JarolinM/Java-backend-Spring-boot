@@ -519,7 +519,7 @@ public class ProductoController {
 |     -> La misma logica en multiples controllers                 |
 |                                                                 |
 |  2. Facil de Probar                                            |
-|     -> Podemos hacer mock del servicio                          |
+|     -> Podemos hacer mock del servicio                         |
 |                                                                 |
 |  3. Mantenimiento                                               |
 |     -> Cambios en un lugar unico                               |
@@ -1129,5 +1129,7 @@ Nivel 3 - Produccion Ready
 ---
 
 *Excelente trabajo! Has completado la Clase 2.*
+
+*Autor: Jarolin Matos Martinez*
 
 **Continua practicando y nos vemos en la proxima clase.**
