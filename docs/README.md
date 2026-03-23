@@ -255,9 +255,9 @@ Este material fue creado para fines educativos.
 
 ## 🎓 Sobre el Curso
 
-- **Instructor:** [Tu nombre]
-- **Nivel:** Principiante a Intermedio
-- **Duración:** [X] clases
+- **Instructor:** Jarolin Matos Martinez
+- **Nivel:** Principiante a Avanzado
+- **Duración:** 24 clases (2 horas cada una)
 - **Prerrequisitos:** Conocimientos básicos de Java
 
 ---
