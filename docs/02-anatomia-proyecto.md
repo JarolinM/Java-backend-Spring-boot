@@ -565,3 +565,5 @@ Luego, ¿qué cambia automáticamente?
 ---
 
 *Las respuestas a los ejercicios están en el archivo `11-ejercicios-practicos.md`*
+
+*Autor: Jarolin Matos Martinez*

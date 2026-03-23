@@ -1216,4 +1216,6 @@ src/main/java/com/product/app/
 
 *¡Excelente trabajo! Has completado la Clase 3.* 🎉
 
+*Autor: Jarolin Matos Martinez*
+
 **Practica mucho y nos vemos en la próxima clase.**

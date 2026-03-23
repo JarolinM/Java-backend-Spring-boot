@@ -438,4 +438,6 @@ public interface MiRepo extends JpaRepository<Entidad, Long> {
 
 **¡Gracias por estudiar con nosotros!** 🎉
 
+*Autor: Jarolin Matos Martinez*
+
 *Este cheat sheet es parte del curso de Spring Boot - Nivel 1: Fundamentos*
