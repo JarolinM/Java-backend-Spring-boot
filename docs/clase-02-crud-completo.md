@@ -907,9 +907,9 @@ curl -X POST http://localhost:8080/api/productos \
 }
 
 # Intentar crear con precio negativo
-curl -X POST http://localhost:8080/api/productos \
+curl -X POST http://localhost:9091/api/productos \
   -H "Content-Type: application/json" \
-  -d '{"nombre":"X","descripcion":"Test","precio":-50}'
+  -d '{"nombre":"Monitor","descripcion":"Gaming","precio":200}'
 
 # Respuesta (400 Bad Request):
 {
