@@ -78,7 +78,7 @@ src/main/java/com/product/app/
 │  "Los módulos de alto nivel no deben depender                    │
 │   de los módulos de bajo nivel.                                 │
 │   Ambos deben depender de abstracciones."                       │
-│                                                    — Robert C. Martin│
+│                                               — Robert C. Martin│
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
